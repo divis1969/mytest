@@ -1,0 +1,56 @@
+{
+"result" :
+  [
+    {
+      "filename" : "cm-12.1-20160923-UNOFFICIAL-v0.13-meilan2.zip",
+      "url" : "https://googledrive.com/host/0Bwzrxcf3P6N6NlFXckM2SHYyMkU",
+      "changes" : "://raw.githubusercontent.com/divis1969/mytest/v2.0/README.md",
+      "md5sum" : "ab03cbaf39aaf7ab00be63797c533d4d",
+      "api_level" : "22",
+      "timestamp" : "1474627115",
+      "channel" : "release",
+      "incremental" : ""
+    },
+    {
+      "filename" : "cm-12.1-20160914-UNOFFICIAL-v0.12-meilan2",
+      "url" : "https://onedrive.live.com/download?cid=830669CF1709D825&resid=830669CF1709D825%21109&authkey=AP-YOkWFJHW3MmA",
+      "changes" : "https://github.com/divis1969/android_device_meizu_meilan2#change-log",
+      "md5sum" : "22d4dee8e37d763c4204da9d334384a6",
+      "api_level" : "22",
+      "timestamp" : "1473855166",
+      "channel" : "release",
+      "incremental" : ""
+    },
+    {
+      "filename" : "cm-12.1-20160612-UNOFFICIAL-v0.11-meilan2.zip",
+      "url" : "https://onedrive.live.com/download?resid=830669CF1709D825!108&authkey=!APIwCE9j43gptoM&ithint=file%2czip",
+      "changes" : "https://github.com/divis1969/android_device_meizu_meilan2#change-log",
+      "md5sum" : "d497d7486039bde399497535568fd876",
+      "api_level" : "22",
+      "timestamp" : "1465673310",
+      "channel" : "release",
+      "incremental" : ""
+    },
+    {
+      "filename" : "cm-12.1-20160507-UNOFFICIAL-v0.10-meilan2.zip",
+      "url" : "https://googledrive.com/host/0Bwzrxcf3P6N6TEFYeWl5ZmhmXzA",
+      "changes" : "https://github.com/divis1969/android_device_meizu_meilan2#change-log",
+      "md5sum" : "161ecb815ee9be493cf90b6d275a1e1d",
+      "api_level" : "22",
+      "timestamp" : "1462609452",
+      "channel" : "release",
+      "incremental" : ""
+    },
+    {
+      "filename" : "cm-12.1-20160416-UNOFFICIAL-v0.9-meilan2.zip",
+      "url" : "https://googledrive.com/host/0Bwzrxcf3P6N6S1hzaUYtNGFwMDA",
+      "changes" : "https://github.com/divis1969/android_device_meizu_meilan2#change-log",
+      "md5sum" : "d84b1571d8e2b88ed013cb93e7c3472a",
+      "api_level" : "22",
+      "timestamp" : "1460836730",
+      "channel" : "release",
+      "incremental" : ""
+    }
+
+  ]
+},
