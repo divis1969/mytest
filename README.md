@@ -1,5 +1,5 @@
 =
-v0.1
+v0.2
 =
 
 * Fixed issue with ICC IO failure in MTK rild
