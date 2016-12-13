@@ -2,12 +2,12 @@
 "result" :
   [
     {
-      "filename" : "cm-14.1-20161210-UNOFFICIAL-meilan2.zip",
-      "url" : "https://googledrive.com/host/0Bwzrxcf3P6N6MnBpZVdmeHZwQ2s",
+      "filename" : "cm-14.1-20161212-UNOFFICIAL-meilan2.zip",
+      "url" : "https://github.com/divis1969/mytest/releases/download/v3.0/cm-14.1-20161212-UNOFFICIAL-meilan2.zip",
       "changes" : "https://github.com/divis1969/mytest/releases/download/v2.0/ReleaseNotes.md",
-      "md5sum" : "c9fa97b23ad838528af58e555bdb87ad",
+      "md5sum" : "4d7fdfc0521a75a5a9b52560d790c34c",
       "api_level" : "25",
-      "timestamp" : "1481357857",
+      "timestamp" : "1481548839",
       "channel" : "release",
       "incremental" : ""
     },
